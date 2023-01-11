@@ -1,2 +1,3 @@
 # pcos_bulk
-R script for analysis of bulk RNA-seq data
+This repository contains R scripts for the analysis of bulk RNA-seq data
+
